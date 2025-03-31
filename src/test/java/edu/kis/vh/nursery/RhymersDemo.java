@@ -4,7 +4,7 @@ import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.RhymersFactory;
 
 class RhymersDemo {
-
+    //projekt dziala poprawnie
     public static void main(String[] args) {
         RhymersFactory factory = new DefaultRhymersFactory();
 
