@@ -8,6 +8,7 @@ public class IntLinkedList {
     public static int RETURN = -1;
     private Node last;
     int i;
+    // TODO: zmienna 'i' nieużywana – usunąć, jeśli nie jest potrzebna
 
     /**
      * Dodaje nowy element na koniec listy (na wierzch stosu).
@@ -40,6 +41,7 @@ public class IntLinkedList {
      */
     public boolean isFull() {
         return false;
+        // TODO: metoda zawsze zwraca false – do przemyślenia, czy w ogóle jest potrzebna
     }
 
     /**

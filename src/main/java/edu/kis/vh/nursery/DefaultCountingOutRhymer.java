@@ -22,6 +22,7 @@ public class DefaultCountingOutRhymer {
 
     public boolean callCheck() {
         return total == EMPTY_INDEX;
+        // TODO: nazwa metody callCheck mało intuicyjna
     }
 
     public boolean isFull() {
