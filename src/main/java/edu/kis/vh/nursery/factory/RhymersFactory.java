@@ -12,4 +12,6 @@ public interface RhymersFactory {
 
     public DefaultCountingOutRhymer GetHanoiRhymer();
 
+    // TODO: nazwy metod zaczynają się wielką literą – niezgodne z konwencją Javy
+
 }
